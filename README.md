@@ -1,0 +1,2 @@
+# Kaggle-Trending-YouTube-Video-Statistics
+YouTube's streaming platform displays a list of top trending videos which changes constantly based on a combination of various factors. Our project is meant to find patterns and relations between variables to draw conclusions and give suggestions to youtubers. Content creators with the goal of a trending video can find useful tips and suggestions based on our analysis of various YouTube metrics. The suggestions include the best topics and tags, publishing times, and metrics to increase their video popularity and success.
